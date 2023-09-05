@@ -55,31 +55,7 @@ const images = [
       desc:`The Dr. Bhau Daji Lad Museum, formerly the Victoria and Albert Museum, is a cultural cornerstone of Mumbai, honoring the city's history and heritage. Established in 1855 and named after Dr. Bhau Daji Lad,who was an Indian Physician, Sanskrit scholar and an antiquarian.The Museum has rich collections such as models of the earliest boats in the city's harbour, the first textile mills in Worli and a diorama of Bombay Castle, the administrative headquarters at the heart of the British Fort. The Museum's collection of glass negatives is a visual record of 19th century Mumbai.
 `
     },
-    {
-      url: 'https://lh6.googleusercontent.com/-p1ntwID9WL8/TWtOEASquCI/AAAAAAAAQOU/N9C89FAW_lY/s1600/museum11.jpg',
-      childurl:'https://farm2.staticflickr.com/1223/5110460108_67a4925e70_z.jpg',
-      title: 'Egmore Museum-Chennai',
-      width: '33.3%',
-      desc:`The Chennai Egmore Museum, founded in 1857 as the Madras Museum, stands as one of India's oldest and most revered cultural institutions. It was subsequently renamed the Government Museum. The museum provides an enriching and serene environment for visitors, making it an ideal place to spend a few hours exploring the past.The Museum has rich collections such as Sculpture of Vishnu in bronze from the Chola period,
-      Sculpture of Bhadrakali in bronze from the 14th century CE,
-      Sculpture of Dakshinamurthi from the Chola period, 12th century CE,
-      Sculpture of Mahishasuramardini in bronze from the Chola period, 11th century CE,
-      Tribal artifacts from Assam.      `
-    },
-    {
-      url: 'https://imgcld.yatra.com/ytimages/image/upload/v1439894732/Jaipur_218.jpg',
-      childurl:'https://i.pinimg.com/originals/4c/a9/91/4ca991a3de63dae389fc6ea827acfd01.jpg',
-      title: 'Albert Hall-Jaipur',
-      width: '33.3%',
-      desc:`Albert Hall Museum, an iconic Jaipur landmark, is a testament to India's cultural heritage. With its grand architecture, diverse exhibits, and cultural significance, it's a must-visit for those exploring Rajasthan's rich history and artistry.Beyond being a repository of history, the Albert Hall Museum also serves as a vibrant cultural hub. It hosts various events, exhibitions, and cultural performances, making it a living testament to Jaipur's artistic and cultural legacy.The museum has a rich collection of artifacts including paintings, jewelry, carpets, ivory, stone, metal sculptures, and works in crystal. The collection includes coins from the Gupta, Kushan, Delhi Sultanate, Mughal and British periods. It also has a collection of musical instruments, textiles, and arms and armour.`
-    },
-    {
-      url: 'https://andareincentives.com/wp-content/uploads/2020/12/Chhatrapati-Shivaji-Maharaj-Vastu-Sangrahalaya-or-Prince-of-Wales-Museum-in-Mumbai-India.jpg',
-      childurl:'https://th.bing.com/th/id/R.077df616141d6552550c23fc8a7b96ca?rik=IQ4X%2bu7RIr56Pg&riu=http%3a%2f%2fcdn.allrefer.com%2fimages%2f2015%2f07%2fthe-gallery-of-sculptures-700x467.jpg&ehk=yJ6Rof7FDoc47yMjI7Epv8j%2fqAXQdOXaFSadTc3PPHs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
-      title: 'Price Of Wales Museum-Mumbai',
-      width: '33.3%',
-      desc:`The Prince of Wales Museum, now named Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, is a living testament to India's diverse heritage, not merely an artifact repository. Its historical importance, stunning Indo-Saracenic architecture by George Wittet, and comprehensive collections make it a must-visit for those exploring India's cultural richness. Established in 1922, it was later renamed in 1998 to honor Chhatrapati Shivaji Maharaj.The collection of the museum is categorised primarily into three sections: art, archaeology and natural history.The library has over 50,000 books and journals, and the archives have over 100,000 photographs, documents, and other materials.`
-    },
+    
 
   ];
   

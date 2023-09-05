@@ -33,6 +33,12 @@ Simply make your reservation, and if you encounter any delays or need to adjust 
         </h6>
         </div>
         </div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
         <div className="about1">
         <div className="aboutpara">
         <h6><i>
