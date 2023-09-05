@@ -1,6 +1,7 @@
 import React from "react";
 import Aboutpic from "../mediafolder/aboutpic.png"
 import Queue from '../mediafolder/Queue-pana.png'
+import Booking from '../mediafolder/bookmus.png'
 export default function AboutContent()
 {
     return(
@@ -14,7 +15,7 @@ export default function AboutContent()
         </h6>
         </div>
         <div className="abtpic">
-        <img src={Aboutpic} alt="sample" width={300} height={300} />
+        <img src={Booking} alt="sample" width={300} height={300} />
         </div>
         
         </div>
