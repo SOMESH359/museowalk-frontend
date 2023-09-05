@@ -15,7 +15,7 @@ export default function AboutContent()
         </h6>
         </div>
         <div className="abtpic">
-        <img src={Booking} alt="sample" width={300} height={300} />
+        <img src={Booking} alt="sample" width={250} height={250} />
         </div>
         
         </div>
